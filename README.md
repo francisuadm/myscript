@@ -1,0 +1,2 @@
+# myscript
+myscripts for linux 
